@@ -1,4 +1,4 @@
-# Mizu
+# eris573
 hello there!<br>
 
 I'm a French tetris player, dev, designer, sporadic streamer/music producer and gamer.<br>
